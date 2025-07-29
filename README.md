@@ -14,3 +14,15 @@ Our experiments demonstrate that regression-based ML models achieve **99% predic
 
 ![TSP Backtracking Prediction Results](./figures/figure1.jpg)
 
+
+---
+
+### 📌 Key Contributions  
+```markdown
+## 📌 Key Contributions
+
+- ✅ Proposed an ML-based pipeline to predict TSP solver runtime
+- ✅ Engineered features from TSP instances for model training
+- ✅ Benchmarked 12 ML models across categories
+- ✅ Found regression models best capture backtracking effort
+- ✅ Achieved up to 99% accuracy in runtime prediction
