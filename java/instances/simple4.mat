@@ -1,0 +1,6 @@
+# Simple TSP instance: 4 cities - tour 0 1 3 2, length 11
+4
+0 1 3 2
+1 0 4 2
+3 4 0 5
+2 2 5 0

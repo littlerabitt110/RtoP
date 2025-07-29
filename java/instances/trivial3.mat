@@ -1,0 +1,5 @@
+# Trivial TSP instance: 3 cities - there can be only 1 tour (mod symmetry)
+3
+0 11 13
+11 0 17
+13 17 0
