@@ -12,7 +12,7 @@ This can support:
 Our experiments demonstrate that regression-based ML models achieve **99% prediction accuracy** for estimating computational workload in TSP backtracking solvers.
 ## 📊 Results Visualization
 
-![TSP Backtracking Prediction Results](./figures/figure1.jpg)
+![TSP Backtracking Prediction Results](./figures/figure1_new.jpg)
 
 
 ---
